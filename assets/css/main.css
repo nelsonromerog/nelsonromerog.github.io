@@ -1010,7 +1010,7 @@ ul.about {
 .widget-profil #profile_social
 {
     padding-top: 15px;
-    align-items: center;
+    justify-content: center;
 }
 
 #profile_social a{
