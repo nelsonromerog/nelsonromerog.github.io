@@ -1024,7 +1024,7 @@ ul.about {
     text-align: center;
     font-size: 24px;
     float: left;
-    display: block;
+    display: inline-block;
     color : #fff;
     -webkit-transition: all .3s ease-in;
     -moz-transition: all .3s ease-in;
